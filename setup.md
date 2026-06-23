@@ -26,7 +26,7 @@ conda --version
 ## 2. Clone this repository
 
 ```bash
-git clone https://github.com/flexfengfeng/6m-data-3.9-Natural-Language-Processing.git
+git clone https://github.com/su-ntu-ctp/6m-data-3.9-Natural-Language-Processing.git
 cd 6m-data-3.9-Natural-Language-Processing
 ```
 
